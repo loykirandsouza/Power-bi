@@ -42,7 +42,7 @@ The dataset used for this project includes the following columns:
 ## Key Insights
 - Gender representation at the executive management level is currently skewed, with fewer women holding leadership positions.
 - Longer tenure and higher engagement in company services correlate with better retention rates, suggesting opportunities for gender-focused retention programs.
-
+![Image](https://github.com/user-attachments/assets/a826a4e1-6245-4c9d-b4c1-0d7e44118e73)
 ## Recommendations
 - Implement targeted recruitment and mentorship programs to support women in advancing to executive roles.
 - Monitor diversity metrics regularly using Power BI dashboards to track progress and adjust strategies accordingly.
